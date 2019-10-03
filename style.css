@@ -1,0 +1,13 @@
+.Marco1{
+    border: 5px solid black;
+    border-width: thin;
+    float: left;
+    width: 40%;
+}
+
+.Marco2{
+    border: 5px solid black;
+    border-width: thin;
+    float: right;
+    width: 40%;
+}
